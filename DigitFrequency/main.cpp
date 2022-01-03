@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+       /* Digit Frequency*/
        int n,d;
        cout<<"ENTER THE NUMBER:"<<endl;
          cin>>n;
